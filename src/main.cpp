@@ -45,8 +45,8 @@ void setup() {
 }
 
 void loop() {
-    // sleep for 1 minute
-    delay(60000);
+    // sleep for 50 seconds
+    delay(50000);
 
     uint16_t co2Concentration = 0;
     float temperature = 0.0;
